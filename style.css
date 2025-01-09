@@ -56,3 +56,17 @@ li{
     margin: 20px;
 }
 
+
+.name{
+    background-image: url("https://png.pngtree.com/png-vector/20200425/ourmid/pngtree-single-person-character-in-vector-png-image_2194492.jpg");
+    background-repeat: no-repeat;
+    background-size: 20px;
+    padding: 25px;
+}
+
+.email{
+    background-image: url("https://media.istockphoto.com/id/826567080/vector/e-mail-icon-simple-vector-illustration-red-color.jpg?s=612x612&w=0&k=20&c=ysxmzarWz_6a2oyi1ue9p6OUBXAw8W1LQPsyorc_5hY=");
+    background-repeat: no-repeat;
+    background-size: 20px;
+    padding: 25px;
+}
